@@ -1,0 +1,14 @@
+767   git add testing.py
+  768  git status
+  769  git rm --cache testing.py
+  770  git status
+  771   git add testing.py
+  772  git status
+  773  git commit -m "added testing fil"
+  774  git status
+  775   rm testing.py
+  776  ls
+  777  ls -la
+  778  git status
+  779   git restore testinf.py
+  780   git restore testing.py
