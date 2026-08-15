@@ -12,3 +12,14 @@
   778  git status
   779   git restore testinf.py
   780   git restore testing.py
+
+
+  
+  git history
+  783  history
+  784  git status
+  785  git add git_commands.txt
+  786  git status
+  787  git commit  -m "added git commands"
+  788  git remote add origin https://github.com/AdityaPrakashJoshi/git-for-devops.git
+  789  git push origin master
